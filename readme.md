@@ -17,7 +17,7 @@ ce projet est sous licence BeerWare - https://en.wikipedia.org/wiki/Beerware
 rangement hexagonal modulaire pour bombes de peinture
 les éléments viennent s'assembler les uns aux autres et former une ensemble qu'on peut attacher à un mur (modules avec un angle de 10 degrés) ou mettre dans un autre support (boite en plastique, sac vinyl, etc...)
 
-Quelques photos
+Quelques photos  
 https://photos.app.goo.gl/edvEtv6UAYYNGaTC8  
 https://photos.app.goo.gl/Y71oFQRZqVdShHbK8  
 https://photos.app.goo.gl/yeBRkn2tGgRDcmCFA  
